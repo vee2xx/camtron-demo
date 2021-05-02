@@ -38,10 +38,6 @@ func Configure() {
 
 func main() {
 
-	// fmt.Println(os.Environ())
-	// goPath, _ := os.UserHomeDir()
-	// log.Println(goPath + "/go/src")
-
 	Configure()
 	if _, err := os.Stat("vids"); os.IsNotExist(err) {
 		os.Mkdir("vids", os.ModePerm)
@@ -56,4 +52,5 @@ func main() {
 	consumers["file"] = streamConsumer
 
 	camtron.StartCam(consumers)
+
 }

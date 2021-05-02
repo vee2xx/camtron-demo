@@ -1,0 +1,14 @@
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
+github.com/vee2xx/camtron v1.0.0 h1:nN4OPSydnmpQLEPFMeoVPRSYV4tC3580dlPEhxsiYqM=
+github.com/vee2xx/camtron v1.0.0/go.mod h1:0FwqPctvu30zwG7S4aQyEggSMtBHC5Yr2SjHUftwDos=
+github.com/vee2xx/camtron v1.0.7 h1:lCKJu1rmVkYlk34GoseKs+Wr3kV4VpIeyUkP3eLynqQ=
+github.com/vee2xx/camtron v1.0.7/go.mod h1:qt6a7PLL2HRsz+mj2GdQA5kMQxotw6zKbJc7OzTh9qI=
+github.com/vee2xx/camtron v1.0.8 h1:oETEk4VA5v4bpeuNjZrjMr27F0Oc7How637LB2QoCcU=
+github.com/vee2xx/camtron v1.0.8/go.mod h1:qt6a7PLL2HRsz+mj2GdQA5kMQxotw6zKbJc7OzTh9qI=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=

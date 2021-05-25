@@ -9,6 +9,8 @@ github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5Cc
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/vee2xx/camtron v1.0.10 h1:E0fAMAmKGAjRXLVa4wgmtmnTuQCS8w+LNz5EYWdvcKU=
 github.com/vee2xx/camtron v1.0.10/go.mod h1:qt6a7PLL2HRsz+mj2GdQA5kMQxotw6zKbJc7OzTh9qI=
+github.com/vee2xx/camtron v1.0.11 h1:Yc3UJtfNR7GV34u5HsuFP7b/vEGpHtsiElnzMXLbTS4=
+github.com/vee2xx/camtron v1.0.11/go.mod h1:qt6a7PLL2HRsz+mj2GdQA5kMQxotw6zKbJc7OzTh9qI=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1ethetCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c h1:dUUwHk2QECo/6vqA44rthZ8ie2QXMNeKRTHCNY2nXvo=

@@ -1,11 +1,5 @@
 package main
 
-/*
-#include<stdio.h>
-#include <stdlib.h>
-extern char * inCFile(char *str);
-*/
-import "C"
 import (
 	"camtron-demo/consumers"
 
@@ -13,8 +7,6 @@ import (
 )
 
 func main() {
-
-	consumers.StartBroadcastStreamConsumer()
+	consumers.StartForwardStreamConsumer()
 	camtron.StartCam()
-
 }
